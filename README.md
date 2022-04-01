@@ -1,4 +1,4 @@
-# set-game
+# Set Game
 A Python implementation of the Game: Set
 
 ## Prerequisite
